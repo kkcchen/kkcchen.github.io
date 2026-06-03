@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 ## CV
 <iframe 
-    src="{{ base_path }}/files/cv_kevin_research.pdf"
+    src="{{ base_path }}/files/cv_kevin_research_2026.pdf"
     width="100%"
     height="1200px"
     style="border: none;">
@@ -19,7 +19,7 @@ redirect_from:
 
 ## Transcript
 <iframe 
-    src="{{ base_path }}/files/transcript.pdf"
+    src="{{ base_path }}/files/transcript_2026.pdf"
     width="100%"
     height="1200px"
     style="border: none;">
