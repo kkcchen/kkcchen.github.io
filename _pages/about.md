@@ -11,7 +11,7 @@ redirect_from:
 
 In machine learning, I’m driven by the question: *what is the best we can do with the data we have?*
 
-Past Experience at the Vector Institute in Toronto, Canada, researching representation learning for the human gut microbiome.
+In the past, I worked at the Vector Institute in Toronto, Canada, researching representation learning for the human gut microbiome. I've also been a Software Engineer at AMD.
 
 I'm originally from Edmonton, Alberta, Canada.
 
